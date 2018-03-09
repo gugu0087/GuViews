@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="button_stroke_color">#797979</color>
+    <color name="title_bg_color">#CCCCCC</color>
+    <color name="red_color">#FF0000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#FFC13C</color>
+    <color name="main_blue_color">#0cb8f4</color>
+    <color name="main_page_bt_text_color">#c2efff</color>
+    <color name="text_black">#000000</color>
+    <color name="text_black_gray">#666666</color>
+    <color name="text_black_gray2">#999999</color>
+    <color name="text_black_gray3">#F6F6F6</color>
+    <color name="text_black_gray5">#F2F2F2</color>
+    <color name="text_gray">#AAAAAA</color>
+    <color name="text_month_color">#333333</color>
+    <color name="divider_color">#e5e5e5</color>
+    <color name="normal_gray_border">#d9d9d9</color>
+    <color name="text_important_color">#414141</color>
+    <color name="text_divide_color">#e9e9e9</color>
+
+    <color name="chart_scale_color">#0099CC</color>
+    <color name="chart_fans_color">#0cb9f4</color>
+    <color name="chart_sign_color">#FFCC66</color>
+</resources>
