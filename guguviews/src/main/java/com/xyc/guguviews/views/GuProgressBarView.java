@@ -192,8 +192,8 @@ public class GuProgressBarView extends RelativeLayout {
             oldBottom = tvCurrentTopTip.getBottom();
         }
         int progressBarLeft = textWidth / 2;
-        int progressBarRight = progressBarLeft + progressBar.getMeasuredWidth();
-        progressBar.layout(progressBarLeft, progressBar.getTop(), progressBarRight, progressBar.getBottom());
+        int progressBarRight = progressBarLeft*2 + progressBar.getMeasuredWidth();
+        progressBar.layout(0, progressBar.getTop(), progressBarRight, progressBar.getBottom());
 
         final int width = progressBar.getMeasuredWidth();
         int percentWidth = ((int) (width * percent));
